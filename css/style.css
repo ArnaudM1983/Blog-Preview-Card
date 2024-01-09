@@ -1,1 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600&display=swap');
+
+body{
+    font-family: Figtree;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.carte{
+    max-width: 330px;
+    border-radius: 15px;
+    border: solid 1px;
+    box-shadow: 8px 8px 8px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.button{
+    background-color: hsl(47, 88%, 63%);
+    width: 100px;
+}
+
+.text{
+    color: hsl(0, 0%, 50%);
+}
+
+.portrait{
+    width: 30px;
+    height: 30px;
+}
