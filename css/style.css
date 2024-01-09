@@ -29,3 +29,7 @@ img{
     width: 30px;
     height: 30px;
 }
+
+.carte .card-title:hover {
+    color: hsl(47, 88%, 63%);
+}
